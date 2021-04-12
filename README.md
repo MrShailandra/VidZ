@@ -24,6 +24,7 @@ VidZ is a Zoom Clone app that is Based on Jitsi Server. It is a Free video call 
 - Create and Join Meetings with One Click.
 - Rejoin Meetings
 - Amazing UI
+- Privacy Policy Page
 
 # Video Call Features
 
