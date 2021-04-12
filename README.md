@@ -1,16 +1,48 @@
-# vidg
+# VidZ
 
-A Flutter Based Video calling App
+VidZ is a Zoom Clone app that is Based on Jitsi Server. It is a Free video call and meeting app are designed simply to provide the user with an easy to operate 
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+- Clone this Repository and use your favorite Editor Like Visual Code or Android Studio.
+- run Pub get and download all required packages.
+- Go to Firebase -> Authentication and enable Login with Email and Password.
+- Go to the real-time database and enable it.
+- Go to Firestone Database and enable it.
+- Create a new Collection Name as meetings
+- Download your google-service file and place it in the App folder.
+- Hit Like and Share this Repository
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+- Splash Screen
+- Google Authentication
+- Check network state at startup
+- Save Meetings in Google Firebase
+- Edit Profile
+- Jitsi Meet SDK (Free)
+- Create and Join Meetings with One Click.
+- Rejoin Meetings
+- Amazing UI
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Video Call Features
+
+- Live Chat with Other Participants
+- Mute All Participant
+- Lobby Mode (Approve or reject Participant)
+- Raise Hand
+- Protect Your Meetings with Passwords
+- Share Screen
+- Live Stream
+- Share Youtube Video 
+- Record Your Meetings
+- And More
+
+ 
+## Contributing
+Feel Free to Pull a request
+
+Please make sure to update tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
