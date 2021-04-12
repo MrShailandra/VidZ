@@ -71,7 +71,3 @@ Please make sure to update tests as appropriate.
     <td><img src="https://github.com/MrShailandra/VidZ/blob/master/VidZScreenShot/photo_2021-04-13_00-15-35.jpg" height=450></td>
   </tr>
  </table>
-
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
