@@ -1,0 +1,43 @@
+name: vidg
+description: A Flutter Based Video calling App
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.0.0 #For Styling
+  font_awesome_flutter: ^9.0.0 # For Icons
+  jitsi_meet: ^2.0.0 # For Video calls
+  shared_preferences: ^2.0.5 # For Login Register Information
+  data_connection_checker: ^0.3.4 #For Internet Connection Checking
+  #Firebase Library
+  firebase_core: ^1.0.2
+  firebase_auth: ^1.0.1
+  cloud_firestore: ^1.0.3
+  firebase_database: ^6.1.1
+  motion_tab_bar: ^0.1.5
+  tab_indicator_styler: ^1.0.0
+  flutter_switch: ^0.3.0
+  random_string: ^2.1.0
+  share: ^2.0.1
+  flutter_html: ^1.3.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+flutter:
+
+  uses-material-design: true
+  assets:
+    - assets/
