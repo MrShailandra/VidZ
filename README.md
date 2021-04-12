@@ -45,5 +45,33 @@ Feel Free to Pull a request
 
 Please make sure to update tests as appropriate.
 
+# Screenshot
+<table>
+  <tr>
+    <td>Signin Screen</td>
+     <td>SignUp  Screen</td>
+     <td>Create Meeting</td>
+   <td>Join Meeting</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MrShailandra/VidZ/blob/master/VidZScreenShot/photo_2021-04-13_00-15-16.jpg?raw=true" height=450></td>
+    <td><img src="https://github.com/MrShailandra/VidZ/blob/master/VidZScreenShot/photo_2021-04-13_00-15-19.jpg?raw=true" height=450></td>
+     <td><img src="https://github.com/MrShailandra/VidZ/blob/master/VidZScreenShot/photo_2021-04-13_00-15-30.jpg?raw=true" height=450></td>
+        <td><img src="https://github.com/MrShailandra/VidZ/blob/master/VidZScreenShot/photo_2021-04-13_00-15-26.jpg?raw=true" height=450></td>
+  </tr>
+ </table>
+ 
+ <table>
+  <tr>
+    <td>Meeting History</td>
+     <td>Meeting Screen</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/MrShailandra/VidZ/blob/master/VidZScreenShot/photo_2021-04-13_00-15-34.jpg?raw=true" height=450></td>
+    <td><img src="https://github.com/MrShailandra/VidZ/blob/master/VidZScreenShot/photo_2021-04-13_00-15-35.jpg" height=450></td>
+  </tr>
+ </table>
+
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
